@@ -67,35 +67,11 @@ movie go on to win best picture.
 <img width="1083" height="537" alt="dashboard" src="https://github.com/user-attachments/assets/f7c92676-e859-41ce-b15d-1b3d1ae7244f" />
 
 
-Moreover, it’s evident from the dashboard above that the relationship
-between Oscar telecast ratings and the popularity of nominated films is
-far from clear-cut. The scatterplot suggests a weakly positive
-association between cumulative box office grosses and ratings, but there were many
-periods when box office totals and ratings were far from correlated. For
-example, the period from 2010 to 2014 saw consistently high ratings,
-despite wildly fluctuating box office totals. Conversely, the period
-from 2022-2026 saw consistently low ratings, despite the fact that
-grosses during that period were highly variable: 2022 had the second
-lowest box office total of the years represented and 2023 had the third
-highest.
+Moreover, it's evident from the dashboard above that the relationship between Oscar telecast ratings and the popularity of nominated films is far from clear-cut. The scatterplot suggests a weakly positive association between cumulative box office grosses and ratings, but there were many periods when box office totals and ratings were far from correlated. For example, the period from 2010 to 2014 saw consistently high ratings, despite wildly fluctuating box office totals. Conversely, the period from 2022-2026 saw consistently low ratings, despite the fact that grosses during that period were highly variable: 2022 had the second lowest box office total of the years represented, and 2023 had the third highest. 
 
-A statistical analysis of the relationship between cumulative box office
-and Oscar telecast ratings bears this analysis out. For every million
-dollar increase in the cumulative box office of a given year’s nominees,
-Oscar viewership increases in tandem by an average of 8,657 viewers.
-This relationship is significant at the alpha = 0.05 level, but it is
-weak: the adjusted $R^2$ value is 0.2499.
+A statistical analysis of the relationship between cumulative box office and Oscar telecast ratings bears this analysis out. For every million dollar increase in the cumulative box office of a given year's nominees, Oscar viewership increases by an average of 8,657 viewers. This relationship is significant at the alpha = 0.05 level, but it is weak: the adjusted $R^2$ value is 0.2499.
 
-Overall, it seems that the Academy’s decision to expand the number of
-best picture nominees in 2010 has, perhaps, not had the impact they
-would have ideally wanted. While recent years have seen may popular
-movies nominated for Oscars like 2019’s “Black Panther” and 2023’s “Top
-Gun: Maverick,” Oscar ratings began to notably decline in the years
-prior to the COVID-19 pandemic and have at record lows ever since. In
-this, the Oscar telecast is far from alone — television ratings, in
-general, are not what they used to be. Still, if the primary goal of the
-expansion was to pique popular interest and increase telecast ratings,
-it’s hard to not be disappointed by the results.
+Overall, it seems that the Academy's decision to expand the number of best picture nominees in 2010 may not have had the impact they would have ideally wanted. While recent years have seen may popular movies nominated for Oscars like 2019's "Black Panther" and 2023's "Top Gun: Maverick," Oscar ratings began to notably decline in the years prior to the COVID-19 pandemic and have stayed at record lows ever since. In this, the Oscar telecast is far from alone — television ratings, in general, are not what they used to be. Still, if the primary goal of the expansion was to pique popular interest and increase telecast ratings, it's hard not to be disappointed by the results. 
 
 ## Caveats and Potential Sources of Bias
 
