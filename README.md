@@ -1,6 +1,10 @@
 Oscar Best Picture Nominees’ Box Office vs. Ratings from 2010-2026
 ================
 
+### NOTE: The following graphs were originally designed with the Altair visualization library for Python and were intended to be interactive.
+
+### To view the interactive versions, go to <https://nflannigan.github.io/oscars-interactive/>.
+
 ## Introduction
 
 In 2009, the Oscars telecast was coming off a historic ratings slide.
@@ -40,10 +44,7 @@ Times](https://www.latimes.com).
 
 ## Visualizations and Discussion
 
-##### NOTE: The following graphs were originally designed with the Altair visualization library for Python and were intended to be interactive.
-
-##### To view the interactive versions, go to <https://nflannigan.github.io/oscars-interactive/>.
-
+##### To view the interactive version, go to <https://nflannigan.github.io/oscars-interactive/>.
 
 <img width="1096" height="559" alt="swarm-plot" src="https://github.com/user-attachments/assets/fb9fd48e-53b3-4df1-a26a-8afd094aee0b" />
 
@@ -61,6 +62,7 @@ years have had any best picture nominees that have grossed more than 500
 million dollars, and in none of those years did the highest-grossing
 movie go on to win best picture.
 
+##### To view the interactive version, go to <https://nflannigan.github.io/oscars-interactive/>.
 
 <img width="1083" height="537" alt="dashboard" src="https://github.com/user-attachments/assets/f7c92676-e859-41ce-b15d-1b3d1ae7244f" />
 
