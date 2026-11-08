@@ -1,9 +1,9 @@
 Oscar Best Picture Nominees’ Box Office vs. Ratings from 2010-2026
 ================
 
-### NOTE: The following graphs were originally designed with the Altair visualization library for Python and were intended to be interactive.
+#### NOTE: The following graphs were originally designed with the Altair visualization library for Python and were intended to be interactive.
 
-### To view the interactive versions, go to <https://nflannigan.github.io/oscars-interactive/>.
+#### To view the interactive versions, go to <https://nflannigan.github.io/oscars-interactive/>.
 
 ## Introduction
 
