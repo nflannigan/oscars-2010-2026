@@ -70,7 +70,7 @@ movie go on to win best picture.
 Moreover, it’s evident from the dashboard above that the relationship
 between Oscar telecast ratings and the popularity of nominated films is
 far from clear-cut. The scatterplot suggests a weakly positive
-association between cumulative box office grosses, but there were many
+association between cumulative box office grosses and ratings, but there were many
 periods when box office totals and ratings were far from correlated. For
 example, the period from 2010 to 2014 saw consistently high ratings,
 despite wildly fluctuating box office totals. Conversely, the period
