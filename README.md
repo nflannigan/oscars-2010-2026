@@ -75,15 +75,13 @@ Overall, it seems that the Academy's decision to expand the number of best pictu
 
 ## Caveats and Potential Sources of Bias
 
-The biggest issue with the data in used here is that several films had
-to be excluded on the grounds that they were distributed on streaming
-platforms owned by Apple and Netflix and therefore had either negligible
-or non-existent domestic box office grosses. The 14 films excluded
+The biggest issue with the data in used here is that several films were considered to have zero dollars in box office on the grounds that they were distributed on streaming
+platforms owned by Apple and Netflix and therefore had non-existent domestic box office grosses. Since streaming services famously withhold specific information about the popularity of their films and TV shows, it is impossible to say how "popular" these films were, relative to those for which we have box office numbers. The 14 films that this caveat applies to
 represented 8.97% of the total movies in the dataset. Notably, Apple’s
-film “Coda” was excluded for this reason, despite winning the Oscar in
+film “Coda,” one of the films to which this caveat applies, won the Oscar for best picture in
 2022.
 
-The specific films excluded were: “Frankenstein”(2026), “Train
+The specific films listed as having zero dollars in box office were “Frankenstein”(2026), “Train
 Dreams”(2026), “Emilia Pérez”(2025), “Maestro”(2024), “All Quiet on the
 Western Front”(2023), “Coda”(2022), “Don’t Look Up”(2022), “The Power of
 the Dog”(2022), “Mank”(2021), “Sound of Metal”(2021), “The Trial of the
