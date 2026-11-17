@@ -76,7 +76,7 @@ Overall, it seems that the Academy's decision to expand the number of best pictu
 ## Caveats and Potential Sources of Bias
 
 The biggest issue with the data in used here is that several films were considered to have zero dollars in box office on the grounds that they were distributed on streaming
-platforms owned by Apple and Netflix and therefore had non-existent domestic box office grosses. Since streaming services famously withhold specific information about the number of views their films and TV shows receive, it is impossible to say how "popular" these films were, relative to those for which we have box office numbers. The 14 films that this caveat applies to
+platforms owned by Apple and Netflix and therefore had no domestic box office revenue. Since streaming services famously withhold specific information about the number of views their films and TV shows receive, it is impossible to say how "popular" these films were, relative to those for which we have box office numbers. The 14 films that this caveat applies to
 represented 8.97% of the total movies in the dataset. Notably included in this set was Apple’s
 film “Coda,” which won the Oscar for best picture in 2022.
 
