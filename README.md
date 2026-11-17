@@ -39,7 +39,7 @@ on streaming platforms such as YouTube TV, Sling, and Hulu in its totals
 [since
 2017](https://www.businessinsider.com/nielsens-tv-ratings-starts-counting-hulu-and-youtubes-new-tv-services-2017-7).
 The figures themselves were gathered from contemporaneous reporting on
-the Oscars by media outlets [Variety](https://variety.com) and the [LA
+the Oscars by media outlets [Variety](https://variety.com) and the [L.A.
 Times](https://www.latimes.com).
 
 ## Visualizations and Discussion
